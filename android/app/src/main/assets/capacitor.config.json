@@ -1,0 +1,6 @@
+{
+	"appId": "com.andrea.vecino",
+	"appName": "music-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
